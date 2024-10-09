@@ -29,5 +29,5 @@ function renameFilesInDirectory(directoryPath) {
 }
 
 // Specify the directory to process
-const directoryToProcess = './limelight'; // Change this to your directory path
+const directoryToProcess = './virtual-tour'; // Change this to your directory path
 renameFilesInDirectory(directoryToProcess);
